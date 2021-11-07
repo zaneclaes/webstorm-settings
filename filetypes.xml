@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;bin;build;dist;node_modules;obj;out;vssver.scc;vssver2.scc;yarn.lock;yarn.lock-e" />
+    <extensionMap>
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="playHooks.ts" type="AUTO_DETECTED" />
+      <mapping pattern="post-checkout" type="AUTO_DETECTED" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
+      <removed_mapping pattern="bin" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="build" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="node_modules" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="obj" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="out" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="yarn.lock" approved="true" type="GitIgnore file" />
+      <removed_mapping pattern="yarn.lock" approved="true" type="yarn.lock" />
+      <removed_mapping pattern="yarn.lock-e" approved="true" type="GitIgnore file" />
+    </extensionMap>
+  </component>
+</application>

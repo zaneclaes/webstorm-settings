@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="OptimizeSaveAll">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="OptimizeSave">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>
