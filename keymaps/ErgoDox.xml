@@ -78,11 +78,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
-    <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Remove">
