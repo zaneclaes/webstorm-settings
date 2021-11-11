@@ -1,5 +1,0 @@
-<templateSet group="TSReact">
-  <template name="fc" value="import React, { FunctionComponent } from 'react';&#10;&#10;type Props = { };&#10;&#10;export const $FILE_NAME$: FunctionComponent&lt;Props&gt; = (props) =&gt; {&#10;  $END$&#10;  return (&lt;React.Fragment /&gt;);&#10;};&#10;&#10;export default $FILE_NAME$;&#10;" description="create function component" toReformat="false" toShortenFQNames="true">
-    <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
-  </template>
-</templateSet>
