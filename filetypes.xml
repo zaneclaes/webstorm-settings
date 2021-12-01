@@ -5,6 +5,7 @@
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="playHooks.ts" type="AUTO_DETECTED" />
       <mapping pattern="post-checkout" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
