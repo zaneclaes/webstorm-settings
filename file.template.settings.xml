@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <code_templates>
+      <template name="React Class Component.jsx" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="React Function Component.jsx" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
