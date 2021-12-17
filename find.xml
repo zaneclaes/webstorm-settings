@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -18,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*.tsx</mask>
     <mask>*.graphql</mask>
+    <mask>*.json</mask>
   </component>
 </application>
