@@ -62,6 +62,7 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta subtract" />
   </action>
+  <action id="CollapseBlock" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -351,7 +352,9 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
-  <action id="PreviousTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="ProblemsView.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
